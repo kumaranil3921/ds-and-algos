@@ -6,3 +6,6 @@ data structures concepts and algo problems
 * [Find Nth Fibonacci Number](https://github.com/kumaranil3921/ds-and-algos/blob/main/Recursion/findNthFibonacciNumber.js)  
 * [Find Sub Sequence](https://github.com/kumaranil3921/ds-and-algos/blob/main/Recursion/subSequence.js)  
 * [Find Sub Sequence Having a sum of K](https://github.com/kumaranil3921/ds-and-algos/blob/main/Recursion/subSequenceHavingSumK.js)  
+
+[**Patterns**](https://github.com/kumaranil3921/ds-and-algos/tree/main/Patterns)
+* [Square pattern](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/SquarePattern)  
