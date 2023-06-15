@@ -10,3 +10,7 @@ data structures concepts and algo problems
 [**Patterns**](https://github.com/kumaranil3921/ds-and-algos/tree/main/Patterns)
 * [Square pattern](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/SquarePattern)
 * [Star pattern](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/StarPattern)  
+
+[**Array**](https://github.com/kumaranil3921/ds-and-algos/tree/main/Array)
+* [Largest Element](https://github.com/kumaranil3921/ds-and-algos/blob/main/Array/Easy/LargestElement/largestElement.js)
+* [2nd  Largest Element](https://github.com/kumaranil3921/ds-and-algos/blob/main/Array/Easy/SecondLargestElement/secondLargestElement.js)
