@@ -8,8 +8,8 @@ data structures concepts and algo problems
 * [Find Sub Sequence Having a sum of K](https://github.com/kumaranil3921/ds-and-algos/blob/main/Recursion/subSequenceHavingSumK.js)  
 
 [**Patterns**](https://github.com/kumaranil3921/ds-and-algos/tree/main/Patterns)
-* [Square pattern](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/SquarePattern)
-* [Star pattern](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/StarPattern)  
+* [Square pattern](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/#pattern-1)
+* [Star pattern](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/#pattern-2)  
 
 [**Array**](https://github.com/kumaranil3921/ds-and-algos/tree/main/Array)
 * [Largest Element](https://github.com/kumaranil3921/ds-and-algos/blob/main/Array/Easy/LargestElement/largestElement.js)
