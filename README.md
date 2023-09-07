@@ -13,6 +13,13 @@ data structures concepts and algo problems
 * [Pattern 3](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/#pattern-3) 
 * [Pattern 4](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/#pattern-4) 
 * [Pattern 5](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/#pattern-5) 
+* [Pattern 6](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/#pattern-6) 
+* [Pattern 7](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/#pattern-7)
+* [Pattern 8](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/#pattern-8)  
+* [Pattern 9](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/#pattern-9) 
+* [Pattern 10](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/#pattern-10) 
+* [Pattern 11](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/#pattern-11) 
+* [Pattern 12](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/#pattern-12) 
 
 [**Array**](https://github.com/kumaranil3921/ds-and-algos/tree/main/Array)
 * [Largest Element](https://github.com/kumaranil3921/ds-and-algos/blob/main/Array/Easy/LargestElement/largestElement.js)
