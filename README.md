@@ -12,6 +12,7 @@ data structures concepts and algo problems
 * [Pattern 2](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/#pattern-2)  
 * [Pattern 3](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/#pattern-3) 
 * [Pattern 4](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/#pattern-4) 
+* [Pattern 5](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/#pattern-5) 
 
 [**Array**](https://github.com/kumaranil3921/ds-and-algos/tree/main/Array)
 * [Largest Element](https://github.com/kumaranil3921/ds-and-algos/blob/main/Array/Easy/LargestElement/largestElement.js)
