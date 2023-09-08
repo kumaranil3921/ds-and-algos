@@ -21,7 +21,7 @@ Output:
 **Constraints:**
 * 1<= N <= 20
 
-* [Solution](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/pattern1.js)
+[Solution](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/pattern1.js)
 
 ----------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ Output:
 **Constraints:**
 * 1<= N <= 20
 
-* [Solution](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/pattern2.js)
+[Solution](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/pattern2.js)
 
 ----------------------------------------------------------------------------
 
@@ -71,7 +71,7 @@ Output:
 **Constraints:**
 * 1<= N <= 20
 
-* [Solution](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/pattern3.js) 
+[Solution](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/pattern3.js) 
 
 ----------------------------------------------------------------------------
 
@@ -96,7 +96,7 @@ Output:
 **Constraints:**
 * 1<= N <= 20
 
-* [Solution](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/pattern4.js) 
+[Solution](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/pattern4.js) 
 
 ----------------------------------------------------------------------------
 
@@ -121,7 +121,7 @@ Output:
 **Constraints:**
 * 1<= N <= 20
 
-* [Solution](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/pattern5.js) 
+[Solution](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/pattern5.js) 
 
 ----------------------------------------------------------------------------
 
@@ -146,7 +146,7 @@ Output:
 **Constraints:**
 * 1<= N <= 20
 
-* [Solution](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/pattern6.js) 
+[Solution](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/pattern6.js) 
 
 ----------------------------------------------------------------------------
 
@@ -171,7 +171,7 @@ Output:
 **Constraints:**
 * 1<= N <= 20
 
-* [Solution](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/pattern7.js) 
+[Solution](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/pattern7.js) 
 
 ----------------------------------------------------------------------------
 
@@ -198,7 +198,7 @@ Output:
 **Constraints:**
 * 1<= N <= 20
 
-* [Solution](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/pattern8.js) 
+[Solution](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/pattern8.js) 
 
 ----------------------------------------------------------------------------
 
@@ -229,7 +229,7 @@ Output:
 **Constraints:**
 * 1<= N <= 20
 
-* [Solution](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/pattern9.js) 
+[Solution](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/pattern9.js) 
 
 ----------------------------------------------------------------------------
 
@@ -260,7 +260,7 @@ Output:
 **Constraints:**
 * 1<= N <= 20
 
-* [Solution](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/pattern10.js) 
+[Solution](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/pattern10.js) 
 
 ----------------------------------------------------------------------------
 
@@ -286,7 +286,7 @@ Output:
 **Constraints:**
 * 1<= N <= 20
 
-* [Solution](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/pattern11.js) 
+[Solution](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/pattern11.js) 
 
 ----------------------------------------------------------------------------
 
@@ -312,4 +312,4 @@ Output:
 **Constraints:**
 * 1<= N <= 20
 
-* [Solution](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/pattern12.js) 
+[Solution](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/pattern12.js) 
