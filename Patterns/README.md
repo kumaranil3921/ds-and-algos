@@ -313,3 +313,81 @@ Output:
 * 1<= N <= 20
 
 [Solution](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/pattern12.js) 
+
+----------------------------------------------------------------------------
+
+# Pattern 13
+
+Geek is very fond of patterns. Once, his teacher gave him a pattern to solve. He gave Geek an integer n and asked him to build a pattern.
+
+Help Geek to build the pattern.
+
+
+**Example 1:**
+```
+Input: 5
+
+Output:
+1 
+2 3 
+4 5 6 
+7 8 9 10 
+11 12 13 14 15
+```
+
+**Constraints:**
+* 1<= N <= 20
+
+[Solution](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/pattern13.js) 
+
+----------------------------------------------------------------------------
+
+# Pattern 14
+
+Geek is very fond of patterns. Once, his teacher gave him a pattern to solve. He gave Geek an integer n and asked him to build a pattern.
+
+Help Geek to build the pattern.
+
+
+**Example 1:**
+```
+Input: 5
+
+Output:
+A
+AB
+ABC
+ABCD
+ABCDE
+```
+
+**Constraints:**
+* 1<= N <= 20
+
+[Solution](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/pattern14.js) 
+
+----------------------------------------------------------------------------
+
+# Pattern 15
+
+Geek is very fond of patterns. Once, his teacher gave him a pattern to solve. He gave Geek an integer n and asked him to build a pattern.
+
+Help Geek to build the pattern.
+
+
+**Example 1:**
+```
+Input: 5
+
+Output:
+ABCDE
+ABCD
+ABC
+AB
+A
+```
+
+**Constraints:**
+* 1<= N <= 20
+
+[Solution](https://github.com/kumaranil3921/ds-and-algos/blob/main/Patterns/pattern15.js) 
